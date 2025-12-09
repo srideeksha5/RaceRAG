@@ -12,10 +12,3 @@ It combines **context-aware question answering** with reliable data sources to p
 - 🧾 Source-backed responses for trust and transparency  
 
 ---
-
-## 🛠️ Setup & Installation
-
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/your-username/RaceRAG.git
-   cd RaceRAG
